@@ -9,5 +9,4 @@ Este repositório contém atividades práticas dos Cursos da DIO ([Digital Innov
 2. **Javascript** - "Variáveis e tipos" 
    
    - Atividade 1 - Verifica Palindromo
-
-
+   - Atividade 2 - Substitui Pares
