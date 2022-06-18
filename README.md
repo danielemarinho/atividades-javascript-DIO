@@ -14,5 +14,6 @@ Este repositório contém atividades práticas dos Cursos da DIO ([Digital Innov
 3. **JavaScript** - "Funções"
    
    - Atividade 1 - Alunos aprovados
+   - Atividade 2 -  Calcula idade (Manipulando This)
 
 
