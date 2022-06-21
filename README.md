@@ -16,4 +16,12 @@ Este repositório contém atividades práticas dos Cursos da DIO ([Digital Innov
    - Atividade 1 - Alunos aprovados
    - Atividade 2 -  Calcula idade (Manipulando This)
 
+4. **Javascript*** - Debugging e Error
+   
+   - Atividade: validação de erros por tipo             
+
+
+
+
+
 
