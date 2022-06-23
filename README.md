@@ -2,40 +2,38 @@
 
 Este repositório contém atividades práticas dos Cursos da DIO ([Digital Innovation One](https://digitalinnovation.one/)) .
 
-### Atividade
+### Atividades
 
-1. **JavaScript** - "Sintaxe e Operadores, ministrado por Stephane Nusch.
+1. **JavaScript**
    
+   - "Sintaxe e Operadores, ministrado por Stephane Nusch.
    
-
-2. **Javascript** - "Variáveis e tipos" 
+   - "Variáveis e tipos" 
+     
+     - Atividade 1 - Verifica Palindromo
+     
+     - Atividade 2 - Substitui Pares
    
-   - Atividade 1 - Verifica Palindromo
-   - Atividade 2 - Substitui Pares
+   - "Funções"
      
+     - Atividade 1 - Alunos aprovados
      
-
-3. **JavaScript** - "Funções"
+     - Atividade 2 - Calcula idade (Manipulando This)
    
-   - Atividade 1 - Alunos aprovados
-   - Atividade 2 -  Calcula idade (Manipulando This)
-     
-     
-
-4. **Javascript*** - Debugging e Error
+   - 
    
-   - Atividade: validação de erros por tipo 
+   - "Debugging e Error" 
      
-     
-
-5. **Javascript*** - Assíncrono
+     - Atividade: validação de erros por tipo 
    
-   - Atividade: API "catAPI" 
+   - "Assíncrono" 
      
-     
-
-6. **Javascript*** - Orientação a Objetos
+     - Atividade: API "catAPI" 
    
-   - Atividade: Conta Bancária
-
-   
+   - "Orientação a Objetos" 
+     
+     - Atividade: Conta Bancária 
+   
+   - "Manipulando o DOM" 
+     
+     - Atividade: Light Mode/Dark Mode 
